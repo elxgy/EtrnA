@@ -1,0 +1,2 @@
+# EtrnA
+computer assistant project
